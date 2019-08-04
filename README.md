@@ -68,6 +68,24 @@ Since this program is written in python so to run this code, please run the belo
 
 ```
 python/python3 Text_Similarity.py   
+```  
+
+## How to run project using docker  
+To run the project using the concept of docker, first it is needed to pull the image which is pushed in the docker hub. To pull this image the command remains same for all as I have made my repository public in the docker hub. Please execute the below command  
+
 ```
+docker pull sanpreetai/text_similarity_nlp:first_commit  
+```
+You will see get the image in your system. Please note that you must have docker installed in your system. To get more grip of this command please see the below screeenshot.  
+
+![docker_pull](https://user-images.githubusercontent.com/3431730/62418532-7ff3c380-b688-11e9-8120-fa48ea0104df.png)  
+
+Now you have successfully pulled the image from my docker-hub. It is time to run the image. To run the image please execute the below command.    
+```
+docker run -it sanpreetai/text_similarity_nlp:first_commit
+```
+Please see the screenshot for more details.  
+
+![Output](https://user-images.githubusercontent.com/3431730/62418544-e678e180-b688-11e9-9727-23f0ec672490.png)  
 
 Happy Coding!!!
