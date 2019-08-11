@@ -88,4 +88,15 @@ Please see the screenshot for more details.
 
 ![Output](https://user-images.githubusercontent.com/3431730/62418544-e678e180-b688-11e9-9727-23f0ec672490.png)  
 
+## Running using docker-compose.yml  
+One can also run using docker-compose.yml. I have also written MVC code for this and has upload the folder MVC_Code_text_similarity. Once can alspo go inside it and run the below command
+```
+docker-compose up
+```
+Hence you will see the full running app and you can play with the app. You only need docker-compose.yml file. You can only take the docker-compose.yml file from this whole respository and run the command docker-compose up and you will see the app working. You will get the online container for the database as well as application will be also online and two container will interact with each other through network bridge in the docker-compose.yml file.    
+
+![docker_compose_Successfull](https://user-images.githubusercontent.com/3431730/62828473-2ac62d80-bc05-11e9-93cf-33efdfdc2561.png)  
+
+![containers](https://user-images.githubusercontent.com/3431730/62828481-5cd78f80-bc05-11e9-834d-8a83658122b4.png)
+
 Happy Coding!!!
