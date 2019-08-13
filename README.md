@@ -99,4 +99,6 @@ Hence you will see the full running app and you can play with the app. You only 
 
 ![containers](https://user-images.githubusercontent.com/3431730/62828481-5cd78f80-bc05-11e9-834d-8a83658122b4.png)
 
+One can also check the description of docker-compose.yml file from thus linjk https://docs.google.com/document/d/1VhwGnp5ckqdl6rTyxWOZ6C3_T32g--P5EVQqR8Bo3qk/edit?usp=sharing  
+
 Happy Coding!!!
