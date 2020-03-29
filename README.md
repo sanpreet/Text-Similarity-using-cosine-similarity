@@ -1,4 +1,6 @@
 # Text-Similarity-using-cosine-similarity  
+![cb9b2595-81ed-49cf-911f-f716bd8d028f](https://user-images.githubusercontent.com/3431730/77843727-adfcb980-71bd-11ea-93d6-6e7a25ac7ffb.jpeg)
+
 
 ## What is special in this code  
 This code is compiled with class based structure. Salient features of this code includes following points
